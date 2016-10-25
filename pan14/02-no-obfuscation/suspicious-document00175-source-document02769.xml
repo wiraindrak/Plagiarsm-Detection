@@ -1,0 +1,5 @@
+<document reference="suspicious-document00175.txt">
+<feature name="plagiarism" obfuscation="none" source_length="873" source_offset="2011" source_reference="source-document02769.txt" this_length="873" this_offset="4172" type="artificial" />
+<feature name="plagiarism" obfuscation="none" source_length="768" source_offset="1157" source_reference="source-document02769.txt" this_length="768" this_offset="11606" type="artificial" />
+<feature name="plagiarism" obfuscation="none" source_length="543" source_offset="0" source_reference="source-document02769.txt" this_length="543" this_offset="14741" type="artificial" />
+</document>

@@ -1,0 +1,78 @@
+Although
+the Wii is not the graphical step up the
+PlayStation 3 and
+Xbox 360 offer, it is still a vast
+improvement over the PlayStation 2 and
+Gamecube consoles. GODS has been updated in a number of areas to take advantage of the increased graphical capabilities of the Wii. These improvements include: GODS has been updated to allow for the use of
+environment mapping in any of our games. If you want a random byte, simply call the algorithm eight times and read the
+lowest 8 bits of the register.  This algorithm
+produces a sequence of (2^31 - 1) random bits before repeating. To seed the register, you can generate one random bit every frame whether you need it or not; then, your register can have at least 200
+different values by the time the user presses Reset.         Atari's shining star: The Atari 2600 Video Computer System, Model # CX-2600.    The Atari 2600 was designed in Grass Valley, California.   The Atari 2600 team consisted of Jay
+Minor, Steve Mayer, Ron Milner and Joe Decuir.   The case design was done by Douglas Hardy and Fredrick Thompson.   
+Originally the whole idea around the Atari 2600 was to design a new console system that would have a longer sales life then past Atari game consoles.   Originally Atari started out selling home game consoles such as PONG, Super Pong, Stunt Cycle, Video Pinball and others.   However their sales life (how long they would sell strong before people grew bored and wanted a new product to come out) was
+short lived.   So the idea around the Atari 2600 was to
+design
+a new system that would have a shelf life of up to 2-3 years.   Atari
+had originally planned to sell a total of 10 games
+for the Atari 2600.   The original game boxes used to be marked 01, 02, 03
+for the original intention of selling only 10 different games. While I know that there are thousands of things to complete or to fix, I can't stop adding new features that I
+feel useful, so here it is: Events! The basic idea is to show how games are related (not strictly related) events. Some examples: - How are related Olympics video games to the real Olympic games? , standard resolution 224 x 256 (Vertical) 256 Colors Raster Notes
+Introduced the and characters; #3 most popular game in the Mario Donkey Kong KLOV is an created by , released in . The game introduced two of Nintendo's most important characters, and .Donkey Kong arcade game Nintendo 1981 Mario Donkey Kong In the game, the player's character "" (later: "Mario") must rescue his girlfriend Pauline.   - On the corner, the boardwalk, on in your home, the classics still reign supreme. Childish Things: Get Your Quarters
+Ready   - Have you ever walked into an arcade and been unable to find your old favorties anywhere? This can help. A list of locations with classic arcade games. Classic Games Location List   Disney - This
+free shock wave game from Disney is
+all about bringing up your own Dalmation. Help your puppy to eat, sleep, play with it and keep it warm just as you would your real pet. This shock wave game saves itself so
+you can come back to it at a later date. Fairly rare to find one in the UK but sold in the millions in the US. VIDEO PINBALL 1977 Atari took the classic mechanical pinball game and turned it into a
+video rendition. Features controls built into the console. Quite rare to find one in the UK. VCS /
+2600 1977 The Atari VCS and 2600 must be one of the most popular home consoles ever produced.   ITEM GMI002 – Atari Lynx Game: Dirty Larry Renegade
+Cop (boxed) 0.00    (UK postage included)
+Click picture for close up view   ITEM GMI003 – Atari Lynx Game: European Soccer Challenge (boxed) 0.00    (UK postage included)   SOLD Click picture for close up view   ITEM GMI004 – Atari Lynx Game: Rampage (unboxed) 0.00
+   (UK postage included) Click picture for
+close up view   Go to the "C:\Atari2600" directory that you created
+earlier, and create
+a "DASM" subdirectory (i.e., "C:\Atari2600\DASM"). Go to the . In the "DASM Assembler Download" section, click on the link for DASM 2.20.07. Note that this is not the newest version of DASM - the newer versions contain a bug that occasionally prevents your code from
+compiling correctly. Add this game to your email alert list     Sorry, there is no media available for this game yet. Sorry no reviews available. Have you seen a review for this game on another gaming site? . Send us the link Sorry no previews available. Have you seen a
+preview for this game on another gaming site? can we see it? :)  I posted it a little while back, but here it
+is
+again for those of you who
+missed it.  I'm using it for the bombs in my game, so it works at least pretty well.  I did find the following algorithm: it uses a 31-bit register initialized to any nonzero value. A look at one of the great action-platform masterpieces, master of its domain. Panic! (aka Switch) The wierdest, most
+tripped-out excuse for a videogame. Crazy wierd and bloody great. You are never more than two seconds from death at all times. One of the smartest, most imaginitive adventure games ever created. Seven Cities of Gold Sonic CD Different from the other Sonics, suggesting another way Sonic could have evolved. Joshua cleared their busy schedules for the occasion and devoted the afternoon to playing Atari. According to Godzilla, there was no significant reason for selecting the first Saturday of May for the holiday. He also states that Evil Robots may not wait another year to celebrate
+Atari Day. He then stated that the next
+Atari Day may be observed as soon as the
+following month, or maybe weekend. "Clearly we have to be concerned about the trivial things like riots, plagues, war, and floods" cautions L'Orange, "but you also have to think about the major disasters. For example, according to most psychics, sports salaries will
+go up next year! This is truly horrifying. Think of the ticket price increases." There were nine different titles available to play on it's release and it came with one button joysticks to use as controllers. 1977 was a strong year for home games consoles, Coleco
+released two. One called Combat and the other was known as the Alpha. The Combat console revolved around four versions of a tank war game. Atari Games Database   - Information about Battlezone, Tempest, Centipede, Missle Command, and Asteroids. Atari Library, The   - About the System 1 used in games such as Marble Madness, Roadblasters and Road Runner. Atari System 1 Page   - A collection of high quality digital images of control panel overlays,
+marquees, side art et.c in a format suitable for professional printing. I bring you more game reviews, with two new sections for Sega Saturn and Vectrex; a lone Playstation screenshot update; and lots of game scans, with a new section for
+the Sony PSP. Check the to see everything that was added. Posted by: Sections: , , , , , , , , , , , . Contributor: Darryl B., Jason Falconer, , Chad Polenz, TJ Edmister, Lady Kirk, Kevin
+Nunes, Arjak. Atari 65XEM         The Atari 65XEM
+Personal Computer System.    This unreleased
+computer was a standard Atari 65XE computer fitted with a special  Audio Processor called "AMY"   Shown at the 1985 CES, the 65XEM was touted as
+having remarkable capabilities for sound/voice synthesis.         The AMY Sound Processor was
+originally a chip designed for Project "GAZA" in 1983 in
+the Advanced Technologies Group (also referred to as the Atari Corporate
+Research Lab) in Sunnyvale, CA.     AMY was one of two
+new chips for a high end dual 68000 processor audio/video workstation that was designed and working prototypes were built.     The graphics processor was called "Rainbow".   
+Together these chips created a formidable computer system capable of
+graphics and sound rivaling many computers which came out
+years upon years later.   Unfortunately these computers would never see the light of day due to the
+sale of Atari in 1984. Originally created by Epyx in 1987 the Atari Lynx was a powerful handheld for its time with two customs 16-bit chips that housed separate processors for sound, graphics and math. The Lynx was capable of displaying
+4,096 colors, had 64K RAM and 4-channel sound. The Lynx
+had a 3.5-inch screen, which displayed in
+160 X 102 resolution.   With the custom 16-bit
+chips and the sprite zooming, the Atari Lynx was able to create 3D effects for great games such as Blue Lightning.
+Regional
+Differences Still need help - Email us at- sales@retro-games.net All product names and logos are registered trademarks of their respective owners. All content 2007 www.retro-games.co.uk Search
+Now available for free download. We buy and sell all Retro Games and systems. Vist our for an extensive list of games and systems. This sections
+includes software for the 2600 and 7800 VHS consoles and XE/XL from Atari.
+Never thought I would carry this type of software but a deal came along...... and I am a sucker for deals... I suspect this section is gonna be for collectors only.    Atari XE/XL Well this was a bit of a suprise, I didn't even know I had some of
+this kit floating around... Here is your chance to be a casting agent. Lunchtime Tournament - Round 5 - Liquid Kids Wed 14 Jan 2009 11:30 AM EST to Wed 14 Jan 2009 4:30 PM EST Everyday during lunch Gametap has a special tasty leaderboard contest for you
+to win prizes. The game of the day for January 14th is Liquid Kids. 1998 Nintendo released
+for the Nintendo 64 in Japan. The game would go on
+to spawn one of the most successful franchises in
+history. Mario Party 2000 Activision released the first-person shooter for Windows in
+North America. (ESRB: M)Quake III: Team Arena LucasArts released the vehicular combat game for the Nintendo 64 in the North America. Do you own an 8-bit Nintendo (),
+Super Nintendo (SNES), Nintendo 64 (N64), Sega Genesis, Sega 32X or Sega Dreamcast? NES How about a portable handheld game system like Game Boy (original, color, advance and SP) or Sega Game
+Gear? If so, we want to hear from you as well. Do you have a classic gaming console system not listed you think is
+worthy to be on the site? | | | | | | HOME NEWS BUY
+& SELL COLLECT & PLAY MODIFICATION SITEMAP CONTACT
+ATARI 7800 CONSOLES I have a small selection of Atari 7800 Consoles. The boxed consoles are ideal for someone new to the retro scene that wants a 'ready to use' system or an enthusiast who wants a genuine collectors item - a complete, boxed, good condition 7800 Console.  The loose consoles are a cheaper alternative - fully functional but without box or instructions. I also have a large selection of and click any of those
+links to take you there!

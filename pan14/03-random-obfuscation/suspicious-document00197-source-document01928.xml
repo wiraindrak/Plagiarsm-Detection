@@ -1,0 +1,11 @@
+<document reference="suspicious-document00197.txt">
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.48500012793326125" source_length="392" source_offset="3350" source_reference="source-document01928.txt" this_length="284" this_offset="2495" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.37980977393400617" source_length="1002" source_offset="13101" source_reference="source-document01928.txt" this_length="759" this_offset="4354" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.5228412211267466" source_length="271" source_offset="12224" source_reference="source-document01928.txt" this_length="156" this_offset="5812" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.40244145782699625" source_length="1483" source_offset="8873" source_reference="source-document01928.txt" this_length="1207" this_offset="5969" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.47126614902639435" source_length="1049" source_offset="5209" source_reference="source-document01928.txt" this_length="839" this_offset="10013" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.39218420545141075" source_length="1328" source_offset="0" source_reference="source-document01928.txt" this_length="1161" this_offset="11407" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.4974825122905716" source_length="610" source_offset="1624" source_reference="source-document01928.txt" this_length="260" this_offset="12569" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.3928562361647474" source_length="1284" source_offset="10918" source_reference="source-document01928.txt" this_length="1156" this_offset="13173" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.3638670580384835" source_length="321" source_offset="8019" source_reference="source-document01928.txt" this_length="249" this_offset="14544" type="artificial" />
+</document>
